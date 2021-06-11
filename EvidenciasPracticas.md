@@ -2,12 +2,23 @@
 
 # 01 - Create a virtual machine in the portal
 
+![1a](Evidencia/1a.PNG)
 
-![image](https://user-images.githubusercontent.com/80672984/121672100-afa75a00-caaf-11eb-91eb-b02726f6bf60.png)
-![image](https://user-images.githubusercontent.com/80672984/121672685-5e4b9a80-cab0-11eb-9373-f0c650e5ab05.png)
-![image](https://user-images.githubusercontent.com/80672984/121672741-6dcae380-cab0-11eb-99ad-ac4105a2afa9.png)
-![image](https://user-images.githubusercontent.com/80672984/121672761-758a8800-cab0-11eb-83ef-6d74cd3b18d3.png)
-![image](https://user-images.githubusercontent.com/80672984/121672783-7b806900-cab0-11eb-8a24-baaf7a85277b.png)
+
+
+![1b](Evidencia/1b.PNG)
+
+
+
+![1c](Evidencia/1c.PNG)
+
+
+
+![1d](Evidencia/1d.PNG)
+
+
+
+![1e](Evidencia/1e.PNG)
 
 # 02 - Create a Web App
 
