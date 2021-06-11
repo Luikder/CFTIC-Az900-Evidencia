@@ -10,15 +10,15 @@
 
 
 
-![3](C:\Users\Luis Rojo\Desktop\Desarrollador Web Microsoft Cloud\CFTIC-Az900-Evidencia\Evidencia\3.PNG)
+![3](Evidencia\3.PNG)
 
 
 
-![4](C:\Users\Luis Rojo\Desktop\Desarrollador Web Microsoft Cloud\CFTIC-Az900-Evidencia\Evidencia\4.PNG)
+![4](Evidencia\4.PNG)
 
 
 
-![5](C:\Users\Luis Rojo\Desktop\Desarrollador Web Microsoft Cloud\CFTIC-Az900-Evidencia\Evidencia\5.PNG)
+![5](Evidencia\5.PNG)
 
 
 
