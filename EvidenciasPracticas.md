@@ -2,11 +2,11 @@
 
 # 01 - Create a virtual machine in the portal
 
-![1](C:\Users\Luis Rojo\Desktop\Desarrollador Web Microsoft Cloud\CFTIC-Az900-Evidencia\Evidencia\1.PNG)
+![1](\Evidencia\1.PNG)
 
 
 
-![2](C:\Users\Luis Rojo\Desktop\Desarrollador Web Microsoft Cloud\CFTIC-Az900-Evidencia\Evidencia\2.PNG)
+![2](\Evidencia\2.PNG)
 
 
 
