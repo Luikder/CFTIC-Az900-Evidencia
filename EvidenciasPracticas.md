@@ -18,7 +18,7 @@
 
 
 
-![1e](Evidencia/1e.PNG)
+
 
 # 02 - Create a Web App
 
