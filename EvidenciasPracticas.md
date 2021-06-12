@@ -22,39 +22,81 @@
 
 # 02 - Create a Web App
 
+![2a](Evidencia/2a.PNG)
+
+![2b](Evidencia/2b.PNG)
+
+
+
+![2c](Evidencia/2c.PNG)
+
+
+
+![2d](Evidencia/2d.PNG)
+
+
+
+
+
+![2e](Evidencia/2e.PNG)
+
+
+
 
 
 # 03 - Deploy Azure Container Instances
 
 Resultado de la creación del Container Instance
 
-![03-ContainerInstance](Evidencia/03-ContainerInstance.png)
+![3a](Evidencia/3a.PNG)
 
-Resultado de ejecutar el contenedor de instacia
 
-![03-ContainerInstance](Evidencia/03A-ContainerInstance.png)
 
-Fin de la practica borrando el recurso
+![3b](Evidencia/3b.PNG)
 
-![03b-ContainerInstance](Evidencia/03b-ContainerInstance.png)
+
+
+![3c](Evidencia/3c.PNG)
+
+
+
+![3d](Evidencia/3d.PNG)
+
+
+
+![3e](Evidencia/3e.PNG)
+
+
 
 
 
 # 04 - Create a virtual network
 
-![04A-VirtualNetwork](Evidencia/04A-VirtualNetwork.png)
+![4a](Evidencia/4a.PNG)
 
 
 
-![04B-VirtualNetwork](Evidencia/04B-VirtualNetwork.png)
+![4b](Evidencia/4b.PNG)
 
-![04C-VirtualNetwork](Evidencia/04C-VirtualNetwork.png)
 
-<img src="Evidencia/04D-VirtualNetwork.png" alt="04D-VirtualNetwork" style="zoom:67%;" />
 
-![04E-VirtualNetwork](Evidencia/04E-VirtualNetwork.png)
+![4c](Evidencia/4c.PNG)
 
-![04F-VirtualNetwork](Evidencia/04F-VirtualNetwork.png)
+
+
+![4d](Evidencia/4d.PNG)
+
+
+
+![4e](Evidencia/4e.PNG)
+
+
+
+![4f](Evidencia/4f.PNG)
+
+
+
+
 
 # 05 - Create blob storage
 
