@@ -100,17 +100,29 @@ Resultado de la creación del Container Instance
 
 # 05 - Create blob storage
 
-![05a-FinalResourceCreating](Evidencia/05a-FinalResourceCreating.png)
 
-![05b-TestStorageAccountCreated](Evidencia/05b-TestStorageAccountCreated.png)
 
-![05c-TestStorageAccountCreated](Evidencia/05c-TestStorageAccountCreated.png)
+![5a](Evidencia/5a.PNG)
 
-![05d-EvidenceToTxtStorageInBlob](Evidencia/05d-EvidenceToTxtStorageInBlob.png)
+![5b](Evidencia/5b.PNG)
 
-![05e-ReviewingContentOfTxtInsideBlobStorage](Evidencia/05e-ReviewingContentOfTxtInsideBlobStorage.png)
+![5c](Evidencia/5c.PNG)
 
-![05f-MonitoringStorageAccount](Evidencia/05f-MonitoringStorageAccount.png)
+
+
+![5d](Evidencia/5d.PNG)
+
+
+
+
+
+![5e](Evidencia/5e.PNG)
+
+
+
+![5f](Evidencia/5f.PNG)
+
+
 
 
 
@@ -118,15 +130,39 @@ Resultado de la creación del Container Instance
 
  
 
-![06a-00](Evidencia/06a-00.png)
+![6a](Evidencia/6a.PNG)
 
-![06b-00](Evidencia/06b-00.png)
 
-![06c-00](Evidencia/06c-00.png)
 
-![06d-00](Evidencia/06d-00.png)
+![6b](Evidencia/6b.PNG)
 
-![06e-00](Evidencia/06e-00.png)
+
+
+![6c](Evidencia/6c.PNG)
+
+
+
+![6d](Evidencia/6d.PNG)
+
+
+
+![6e](Evidencia/6e.PNG)
+
+
+
+![6f](Evidencia/6f.PNG)
+
+
+
+![6g](Evidencia/6g.PNG)
+
+
+
+![6h](Evidencia/6h.PNG)
+
+
+
+
 
 # 07 - Implement an Azure IoT Hub
 
